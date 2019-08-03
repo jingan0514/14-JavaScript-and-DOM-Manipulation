@@ -1,3 +1,3 @@
 # 14-JavaScript-and-DOM-Manipulation
-#demo
+# demo
 ![alt-text](link)
